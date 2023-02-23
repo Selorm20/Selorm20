@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Selorm20
-- 👀 I’m interested in Cyber Security & Aircraft engineering
+- 👀 I’m interested in Computer Engineering
 - 🌱 A graduate in Computer Science
-- 💞️ I’m looking to collaborate on projects related to Computer Science
+- 💞️ I’m looking to collaborate on projects related to Computer Science & Engineering
 - 📫 How to reach me email - selormapoh61@gmail.com
 
 <!---
